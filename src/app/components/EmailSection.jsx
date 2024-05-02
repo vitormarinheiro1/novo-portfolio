@@ -48,15 +48,14 @@ const EmailSection = () => {
                     Let's Connect
                 </h5>
                 <p className="text-[#ADB7BE] mb-4 max-w-md">
-                    I'm currently looking for new opportunities, my inbox is alsats open.
-                    Wheter you have a question or just want to say hi, I'll try my best
-                    to get back to you!
+                I'm actively seeking new opportunities and my inbox is always open. 
+                Whether you have a question or simply want to say hi, I'm committed to responding to you promptly.
                 </p>
                 <div className="socials flex flex-row gap-2">
-                    <Link href="github.com">
+                    <Link href="https://github.com/vitormarinheiro1/">
                         <Image src={GithubIcon} alt="Github Icon" />
                     </Link>
-                    <Link href="linkedin.com">
+                    <Link href="https://br.linkedin.com/in/vitor-marinheiro-590a461ba">
                         <Image src={LinkedinIcon} alt="Linkedin Icon" />
                     </Link>
                 </div>
