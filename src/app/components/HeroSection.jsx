@@ -39,7 +39,7 @@ const HeroSection = () => {
                             repeat={Infinity}
                         />
                     </h1>
-                    <p className="text-[#adb7be] text-base sm:text-lg mb-6 lg:text-xl">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <p className="text-[#adb7be] text-base sm:text-lg mb-6 lg:text-xl">Currently, I am seeking to join a company in my field where I can continue to learn and further develop my skills.</p>
                     <div>
                         <Link href="https://api.whatsapp.com/send?phone=11973179659&text=Ol%C3%A1%20Vitor...">
                             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-primary-500 to-w-500 hover:bg-slate-200 text-white">Hire me</button>
