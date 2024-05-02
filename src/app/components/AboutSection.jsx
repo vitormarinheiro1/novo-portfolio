@@ -24,7 +24,7 @@ const TAB_DATA = [
         content: (
             <ul className="list-disc pl-2">
                 <li>Ciência da computação</li>
-                <li>Faculdade descomplica</li>
+                <li>Técnico em informática</li>
             </ul>
         ),
     },
