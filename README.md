@@ -1,5 +1,7 @@
 # Porfólio em React.js e TailwindCSS
 <img height="500" src="/public/images/projeto.png">
+<img height="500" src="/public/images/projeto2.png">
+<img height="500" src="/public/images/projeto3.png">
 
 ### 🛠 Tecnologias
 
